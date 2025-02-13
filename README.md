@@ -9,18 +9,6 @@ Powered by [ffmpeg](https://ffmpeg.org/) for robust video and image manipulation
 
 ---
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Scripts Overview](#scripts-overview)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Features
 
 - **Frame-by-frame processing** — Extract or edit frames with custom logic.
