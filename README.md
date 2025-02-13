@@ -5,7 +5,7 @@ A Python toolkit for video processing and manipulation. This repository contains
 - **Apply filters** or transformations
 - **Batch process** multiple files
 
-Powered by [ffmpeg]([https://opencv.org/](https://ffmpeg.org/) for robust video and image manipulation, and organized to make it easy to add new features over time.
+Powered by [ffmpeg](https://ffmpeg.org/) for robust video and image manipulation, and organized to make it easy to add new features over time.
 
 ---
 
